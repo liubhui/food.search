@@ -1,0 +1,1 @@
+package com.food.search.controller;/** * Created by user on 16-11-27. */public class SearchController {}
